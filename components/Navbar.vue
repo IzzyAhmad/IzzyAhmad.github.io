@@ -18,10 +18,10 @@
 
     <div class="navbar-menu" id="navbarMenu">
       <div class="navbar-end">
-        <a class="navbar-item">Home</a>
+        <!-- <a class="navbar-item">Home</a>
         <a class="navbar-item">Experience</a>
         <a class="navbar-item">Language</a>
-        <a class="navbar-item">Contact</a>
+        <a class="navbar-item">Contact</a> -->
       </div>
     </div>
   </nav>

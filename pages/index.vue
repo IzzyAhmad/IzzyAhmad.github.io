@@ -1,6 +1,6 @@
 <template>
-  <section class="section">
-    <div class="container index-container">
+  <section class="section index-section">
+    <div class="container">
       <div class="columns is-desktop">
         <div class="column is-full">
           <p class="has-text-centered typing-container">
@@ -34,10 +34,14 @@ export default {
 </script>
 
 <style>
-.index-container {
+.index-section {
   /* border: 2px solid red; */
   height: 100vh;
 }
+
+/* .container{
+    border: 2px solid red;
+} */
 .typing-container {
   margin-top: 40vh;
   font-size: 4em;
